@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "native-x-tappable": "^1.0.0",
-    "native-x-theme": "^1.0.3",
+    "native-x-theme": "^1.0.4",
     "tachyons-react-native": "^1.0.4"
   }
 }
