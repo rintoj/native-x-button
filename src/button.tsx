@@ -131,7 +131,7 @@ export function Button<T>(props: ButtonProps<T>) {
   return (
     <Tappable data={data} disabled={disabled} onTap={onTap}>
       <View
-        backgroundColor={loading || disabled ? 'divider' : backgroundColor}
+        backgroundColor={loading || disabled ? COLOR.DISABLED : backgroundColor}
         style={style as any}
         {...props}
       >
