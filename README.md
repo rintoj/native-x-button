@@ -47,9 +47,9 @@ function MyComponent() {
 
 ## DEMO
 
-| Button Types              | Button Sizes              | Colors / Disabled         |
-| ------------------------- | ------------------------- | ------------------------- |
-| [DEMO1](./docs/demo1.png) | [DEMO2](./docs/demo2.png) | [DEMO3](./docs/demo3.png) |
+| Button Types               | Button Sizes               | Colors / Disabled          |
+| -------------------------- | -------------------------- | -------------------------- |
+| ![DEMO1](./docs/demo1.png) | ![DEMO2](./docs/demo2.png) | ![DEMO3](./docs/demo3.png) |
 
 ## API
 
