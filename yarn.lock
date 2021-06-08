@@ -5709,19 +5709,10 @@ nanomatch@^1.2.9:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
-native-x-tappable@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/native-x-tappable/-/native-x-tappable-1.0.0.tgz#10804fd8d64db5ca429b85c2abfbf153a83a917b"
-  integrity sha512-V+hyeRm9ziyoX26m3AqtVSSy1/k9pr4YMzYQUNxQwA/SrPi8dH2ND2t07enkgd7aY5yZHExZQb3dPvidVln9GA==
-  dependencies:
-    lodash "^4.17.20"
-
-native-x-theme@^1.0.3:
+native-x-tappable@^1.0.3:
   version "1.0.3"
-  resolved "https://registry.yarnpkg.com/native-x-theme/-/native-x-theme-1.0.3.tgz#f708aa5146c52390a7d2d66d5d019f8303f57103"
-  integrity sha512-tqqljnnI3ND/hdqBhAV7eIp2844XVzZ6MkfMpa+nNM8T/rKVfoJxg0GYQgCZXOTm4M/QwNIs/6Yq/uqn3c7I0Q==
-  dependencies:
-    tachyons-react-native "^1.0.4"
+  resolved "https://registry.yarnpkg.com/native-x-tappable/-/native-x-tappable-1.0.3.tgz#556889eb312ab9d08bc1c5615d3eff9dd3b39dfe"
+  integrity sha512-1hPHNSFSMO/ToPOvy0zUo/uUKuXAiiKXpe8HmXbw5cIx3CyV2patKYLY/hEPUml4NNsLV5aj9AFTNmKRn/E3Vg==
 
 natural-compare@^1.4.0:
   version "1.4.0"
